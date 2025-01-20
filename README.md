@@ -26,8 +26,8 @@ client-server/
 └── README.md
 
 # Setup
-- Create an input directory in the project root. This is where the client will monitor for new properties files.
-- Create an output directory in the project root. This is where the server will write reconstructed files.
+- Create an *input* directory in the project root. This is where the client will monitor for new properties files.
+- Create an *output* directory in the project root. This is where the server will write reconstructed files.
 
 ## Building the Project
 
