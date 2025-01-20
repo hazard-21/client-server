@@ -2,7 +2,7 @@
 
 ## Structure
 
-project_root/
+client-server/
 │
 ├── src/
 │ ├── client/
